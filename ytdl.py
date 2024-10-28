@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # Video/Audio processing library
 from pytube import YouTube
 import ffmpeg

@@ -1,3 +1,4 @@
 ytdl_env
+venv
 *.mp4
 links.txt
